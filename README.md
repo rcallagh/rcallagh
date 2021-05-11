@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">👉 Check out what I've been working on 
-	<a href="https://rcallagh.github.io">here</a> and follow me <a href="https://twitter.com/TerryTangYuan">on Twitter</a> for updates! 🛠️ ✍️ ☕ 🚀
+	<a href="https://rcallagh.github.io">here</a> and follow me <a href="https://twitter.com/RossCallaghan">on Twitter</a> for updates! 🛠️ ✍️ ☕ 🚀
 </p>
