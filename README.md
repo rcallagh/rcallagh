@@ -1,3 +1,4 @@
+![](imgs/test.gif)
 <p align="center">
 	<a href="https://github.com/rcallagh"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://twitter.com/RossCallaghan"><img src="imgs/twitter.svg" alt="Twitter"></a>
